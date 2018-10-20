@@ -1,0 +1,19 @@
+{
+  "name": "dod",
+  "version": "1.0.0",
+  "description": "Dungeons of Doom game",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasmusolofssons/dod-nodejs.git"
+  },
+  "author": "Rasmus Olofsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasmusolofssons/dod-nodejs/issues"
+  },
+  "homepage": "https://github.com/rasmusolofssons/dod-nodejs#readme"
+}
