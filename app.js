@@ -13,7 +13,9 @@ Keypress(process.stdin);
  
 // listen for the "keypress" event
 process.stdin.on('keypress', function (ch, key) {
-    map.draw(key.name);
+    if(key){
+        map.draw(key.name);
+    }
   if (key && key.ctrl && key.name == 'c') {
     process.stdin.pause();
   }
