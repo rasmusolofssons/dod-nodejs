@@ -4,7 +4,8 @@ class Map {
         this.height = height;
     }
 
-     draw (){
+     draw (key){
+         console.log("in map. Key is: " + key);
          let map = [];
 
          for(let i = 0; i < this.width; i++){
