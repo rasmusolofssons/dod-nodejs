@@ -1,9 +1,10 @@
 const Character = require('./character');
 
-class Player extends Character{
+class Monster extends Character{
     constructor(name){
         super(name);
+        this.symbol = 'm';
     }
 }
 
-module.exports = Character;
+module.exports = Monster;

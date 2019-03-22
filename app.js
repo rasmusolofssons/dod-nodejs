@@ -1,11 +1,8 @@
-const Player = require('./src/player');
 const Map = require('./src/map');
 const Keypress = require('keypress');
 
 
-let player = new Player("Rasmus");
-let map = new Map(5,5);
-console.info(player);
+let map = new Map(10,10);
 map.draw();
 
 // make `process.stdin` begin emitting "keypress" events
