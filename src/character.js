@@ -1,8 +1,8 @@
 class Character {
-    constructor(name){
+    constructor(name, mapHeight, mapWidth){
         this.name = name;
-        this.x = Math.floor(Math.random() * 10);
-        this.y = Math.floor(Math.random() * 10);
+        this.y = Math.floor(Math.random() * mapHeight);
+        this.x = Math.floor(Math.random() * mapWidth);
     }
 }
 

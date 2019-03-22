@@ -2,9 +2,9 @@ const Player = require('./player');
 const Monster = require('./monster');
 
 class Map {
-    constructor(width, height){
-        this.width = width;
-        this.height = height;
+    constructor(mapHeight, mapWidth){
+        this.mapHeight = mapHeight;
+        this.mapWidth = mapWidth;
     }
 
     draw (player, monster, key){
@@ -14,9 +14,9 @@ class Map {
         //console.log(`Monster X: ${monster.x} \n Monster Y: ${monster.y}`);
          let map = [];
 
-         for(let y = 0; y < this.height; y++){
+         for(let y = 0; y < this.mapHeight; y++){
             map[y] = [];
-             for(let x = 0; x < this.width; x++){
+             for(let x = 0; x < this.mapWidth; x++){
              
                 if(this.characterHere(player, y, x)){
                     map[y][x] = player.symbol;

@@ -1,8 +1,8 @@
 const Character = require('./character');
 
 class Monster extends Character{
-    constructor(name){
-        super(name);
+    constructor(name, mapHeight, mapWidth){
+        super(name,mapHeight, mapWidth);
         this.symbol = 'm';
     }
 }
