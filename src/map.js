@@ -39,16 +39,16 @@ class Map {
     }
 
     playerMove(player, key){
-        if(key === 'right'){
+        if(key === 'right' && player.x < (this.mapWidth -1)){
             player.x = player.x + 1;
         }
-        else if (key === 'left'){
+        else if (key === 'left' && player.x > 0){
             player.x = player.x -1;
         }
-        else if (key === 'up'){
+        else if (key === 'up' && player.y > 0){
             player.y = player.y-1;
         }
-        else if (key === 'down'){
+        else if (key === 'down' && player.y < (this.mapHeight -1)){
             player.y = player.y +1;
         }
     }
