@@ -1,36 +1,55 @@
-const Player = require('./player');
-const Monster = require('./monster');
-
 class Map {
-    constructor(mapHeight, mapWidth){
+    constructor(mapHeight, mapWidth, player, monster){
         this.mapHeight = mapHeight;
         this.mapWidth = mapWidth;
+        this.mapArray = [];
+        this.player = player;
+        this.monster = monster;
     }
 
-    draw (player, monster, key){
-        this.playerMove(player, key);
-      console.log('Key: ' + key);
-        console.log(`Player X: ${player.x} \n Player Y: ${player.y}`);
-        //console.log(`Monster X: ${monster.x} \n Monster Y: ${monster.y}`);
-         let map = [];
+    set monster(val) {
+        this._monster = val;
+    }
+
+    get monster() {
+        return this._monster;
+      }
+
+    set player(val) {
+        this._player = val;
+    }
+
+    get player() {
+        return this._player
+      }
+
+    set mapArray(value) {
+        this._mapArray = [];
+      }
+    
+      get mapArray() {
+        return this._mapArray
+      }
+
+    draw (key){
+        this.playerMove(key);
 
          for(let y = 0; y < this.mapHeight; y++){
-            map[y] = [];
+            this.mapArray[y] = [];
              for(let x = 0; x < this.mapWidth; x++){
              
-                if(this.characterHere(player, y, x)){
-                    map[y][x] = player.symbol;
+                if(this.characterHere(this.player, y, x)){
+                    this.mapArray[y][x] = this.player.symbol;
                 } 
-                else if(this.characterHere(monster, y, x)) {
-                    console.log(`Monster X: ${monster.x} \n Monster Y: ${monster.y}`);
-                        map[y][x] = monster.symbol;
+                else if(this.characterHere(this.monster, y, x)) {
+                    this.mapArray[y][x] = this.monster.symbol;
                     }
                  else{
-                    map[y][x] = ' ';
+                    this.mapArray[y][x] = ' ';
                  }
              }
          }
-         console.info(map);
+         console.info(this.mapArray);
     }
 
      characterHere(character, y, x){
@@ -38,19 +57,36 @@ class Map {
 
     }
 
-    playerMove(player, key){
-        if(key === 'right' && player.x < (this.mapWidth -1)){
-            player.x = player.x + 1;
+    playerMove(key){
+        if(key === 'right' && this.player.x < (this.mapWidth -1)){
+            this.player.x = this.player.x + 1;
         }
-        else if (key === 'left' && player.x > 0){
-            player.x = player.x -1;
+        else if (key === 'left' && this.player.x > 0){
+            this.player.x = this.player.x -1;
+
         }
-        else if (key === 'up' && player.y > 0){
-            player.y = player.y-1;
+        else if (key === 'up' && this.player.y > 0){
+            this.player.y = this.player.y-1;
+
         }
-        else if (key === 'down' && player.y < (this.mapHeight -1)){
-            player.y = player.y +1;
+        else if (key === 'down' && this.player.y < (this.mapHeight -1)){
+            this.player.y = this.player.y +1;
         }
+
+        if(this.canAttackMonster()){
+            this.player.attack(this.monster);
+        }
+    }
+
+    canAttackMonster(){
+        console.log(this.player);
+        console.log(this.monster);
+
+        if(this.player.x == this.monster.x && this.player.y == this.monster.y){
+            return true;
+        }
+
+        return false;
     }
 }
 

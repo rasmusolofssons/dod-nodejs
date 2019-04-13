@@ -3,6 +3,12 @@ class Character {
         this.name = name;
         this.y = Math.floor(Math.random() * mapHeight);
         this.x = Math.floor(Math.random() * mapWidth);
+        this.health = 20;
+    }
+
+     attack(character)
+    {
+        character.health -= 2;
     }
 }
 

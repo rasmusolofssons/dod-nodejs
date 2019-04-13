@@ -7,8 +7,8 @@ const mapWidth = 10;
 
 let player = new Player("Rasmus", mapHeight, mapWidth);
 let monster = new Monster("Monster", mapHeight, mapWidth);
-let map = new Map(mapHeight,mapWidth);
-map.draw(player,monster);
+let map = new Map(mapHeight,mapWidth, player, monster);
+map.draw();
 
 // make `process.stdin` begin emitting "keypress" events
 Keypress(process.stdin);
@@ -16,7 +16,7 @@ Keypress(process.stdin);
 // listen for the "keypress" event
 process.stdin.on('keypress', function (ch, key) {
     if(key){
-        map.draw(player,monster, key.name);
+        map.draw(key.name);
     }
   if (key && key.ctrl && key.name == 'c') {
     process.stdin.pause();
