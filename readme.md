@@ -2,6 +2,8 @@
 
 A simple console game taking place in a 2d-array printed to the console.
 
+![Image of game](icons/dod-v1.0.png?raw=true "Title")
+
 ### Requirements ###
 
 NodeJS
