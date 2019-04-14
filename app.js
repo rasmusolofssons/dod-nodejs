@@ -1,7 +1,7 @@
 const Map = require('./src/map');
 const Keypress = require('keypress');
-const Player = require('./src/player');
-const Monster = require('./src/monster');
+const Player = require('./src/characters/player');
+const Monster = require('./src/characters/monster');
 const mapHeight = 10;
 const mapWidth = 10;
 
