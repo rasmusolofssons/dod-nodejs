@@ -32,8 +32,6 @@ class Map {
       }
 
     draw (key){
-        this.playerMove(key);
-
          for(let y = 0; y < this.mapHeight; y++){
             this.mapArray[y] = [];
              for(let x = 0; x < this.mapWidth; x++){
@@ -72,21 +70,6 @@ class Map {
         else if (key === 'down' && this.player.y < (this.mapHeight -1)){
             this.player.y = this.player.y +1;
         }
-
-        if(this.canAttackMonster()){
-            this.player.attack(this.monster);
-        }
-    }
-
-    canAttackMonster(){
-        console.log(this.player);
-        console.log(this.monster);
-
-        if(this.player.x == this.monster.x && this.player.y == this.monster.y){
-            return true;
-        }
-
-        return false;
     }
 }
 

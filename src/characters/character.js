@@ -8,7 +8,7 @@ class Character {
 
      attack(character)
     {
-        character.health -= 2;
+        character.health -= 5;
     }
 }
 

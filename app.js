@@ -1,5 +1,5 @@
 const Game = require('./src/game');
+const game = new Game();
 
-
-Game.start();
+game.start();
 
