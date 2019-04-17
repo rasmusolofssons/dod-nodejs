@@ -1,8 +1,13 @@
-class Character {
+const Coordinate = require('../miscellaneous/coordinate');
+
+class Character extends Coordinate {
     constructor(name, mapHeight, mapWidth){
+        super(mapHeight,mapWidth);
+        if (this.constructor === Character) {
+            throw new TypeError('Abstract class "Character" cannot be instantiated directly.'); 
+        }
+
         this.name = name;
-        this.y = Math.floor(Math.random() * mapHeight);
-        this.x = Math.floor(Math.random() * mapWidth);
         this.health = 20;
     }
 

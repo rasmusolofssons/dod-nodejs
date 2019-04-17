@@ -2,6 +2,7 @@ const Map = require('./map');
 const Keypress = require('keypress');
 const Player = require('./characters/player');
 const Monster = require('./characters/monster');
+const HealthPotion = require('./miscellaneous/healthpotion');
 const mapHeight = 10;
 const mapWidth = 10;
 
@@ -9,6 +10,7 @@ class Game {
     constructor(){
         this.player = new Player("Rasmus", mapHeight, mapWidth);
         this.monster = new Monster("Monster", mapHeight, mapWidth);
+        this.healthPotion = new HealthPotion('Health Potion', mapHeight, mapWidth);
     }
 
     set monster(val) {
@@ -28,7 +30,7 @@ class Game {
       }
 
      start() {
-        let map = new Map(mapHeight, mapWidth, this.player, this.monster);
+        let map = new Map(mapHeight, mapWidth, this.player, this.monster, this.healthPotion);
         map.draw();
         // make `process.stdin` begin emitting "keypress" events
         Keypress(process.stdin);
@@ -39,11 +41,9 @@ class Game {
                     this.end(process);
                     return;
                 }
+                console.log(this.player);
+                console.log(this.monster);
                 map.playerMove(key.name);
-                if(this.canAttackMonster()){
-                    this.player.attack(this.monster);
-                   
-                }
                 map.draw(key.name);
             }
             if (key && key.ctrl && key.name == 'c') {
@@ -52,17 +52,6 @@ class Game {
         }));
         process.stdin.setRawMode(true);
         process.stdin.resume();
-    }
-
-     canAttackMonster(){
-        console.log(this.player);
-        console.log(this.monster);
-
-        if(this.player.x == this.monster.x && this.player.y == this.monster.y){
-            return true;
-        }
-
-        return false;
     }
 
      end(process){
