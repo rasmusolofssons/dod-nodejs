@@ -2,7 +2,7 @@
 
 A simple console game taking place in a 2d-array printed to the console.
 
-![Image of game](icons/dod-v1.0.png?raw=true "Title")
+![Image of game](icons/dod-v1.1.png?raw=true "Title")
 
 ### Requirements ###
 
@@ -19,6 +19,11 @@ Cd to repo.
 Run npm install.
 
 ### How to play ###
+
+Cd to repo.
+
+Run node app.js
+
 Use the arrow keys to move.
 
 ### TODO:
