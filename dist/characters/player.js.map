@@ -1,0 +1,1 @@
+{"version":3,"file":"player.js","sourceRoot":"","sources":["../../src/characters/player.ts"],"names":[],"mappings":";;AAAA,2CAAwC;AAGxC,MAAa,MAAO,SAAQ,qBAAS;IAGjC,YAAY,IAAa,EAAE,SAAiB,EAAE,QAAgB;QAC1D,KAAK,CAAC,IAAI,EAAE,SAAS,EAAE,QAAQ,CAAC,CAAC;QACjC,IAAI,CAAC,MAAM,GAAG,GAAG,CAAC;QAClB,IAAI,CAAC,SAAS,GAAG,EAAE,CAAC;IACxB,CAAC;CACJ;AARD,wBAQC"}

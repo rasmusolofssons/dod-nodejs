@@ -1,0 +1,1 @@
+{"version":3,"file":"monster.js","sourceRoot":"","sources":["../../src/characters/monster.ts"],"names":[],"mappings":";;AAAA,2CAAwC;AAExC,MAAa,OAAQ,SAAQ,qBAAS;IAGlC,YAAY,IAAa,EAAE,SAAiB,EAAE,QAAgB;QAC1D,KAAK,CAAC,IAAI,EAAE,SAAS,EAAE,QAAQ,CAAC,CAAC;QACjC,IAAI,CAAC,MAAM,GAAG,GAAG,CAAC;IACtB,CAAC;CACJ;AAPD,0BAOC"}
