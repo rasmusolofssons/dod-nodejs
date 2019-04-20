@@ -11,24 +11,6 @@ class Map {
         this.monster = monster;
         this.potion = potion;
     }
-    set monster(val) {
-        this.monster = val;
-    }
-    get monster() {
-        return this.monster;
-    }
-    set player(val) {
-        this.player = val;
-    }
-    get player() {
-        return this.player;
-    }
-    set mapArray(value) {
-        this.mapArray = [];
-    }
-    get mapArray() {
-        return this.mapArray;
-    }
     draw() {
         for (let y = 0; y < this.mapHeight; y++) {
             this.mapArray[y] = [];

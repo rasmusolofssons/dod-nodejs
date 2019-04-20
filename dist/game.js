@@ -13,18 +13,6 @@ class Game {
         this.monster = new monster_1.Monster("Monster", mapHeight, mapWidth);
         this.healthPotion = new healthpotion_1.HealthPotion("Health Potion", mapHeight, mapWidth);
     }
-    set monster(val) {
-        this.monster = val;
-    }
-    get monster() {
-        return this.monster;
-    }
-    set player(val) {
-        this.player = val;
-    }
-    get player() {
-        return this.player;
-    }
     start() {
         let map = new map_1.default(mapHeight, mapWidth, this.player, this.monster, this.healthPotion);
         map.draw();
@@ -37,8 +25,9 @@ class Game {
                     this.end(process);
                     return;
                 }
-                console.log(this.player);
-                console.log(this.monster);
+                console.clear();
+                console.log(`Player Health: ${this.player.health}`);
+                console.log(`Monster Health: ${this.monster.health}`);
                 map.playerMove(key.name);
                 map.draw();
             }

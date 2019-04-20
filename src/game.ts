@@ -10,7 +10,7 @@ export class Game {
     healthPotion: HealthPotion;
     monster: Monster;
     player: Player;
-    constructor(){
+        constructor(){
         this.player = new Player("Rasmus", mapHeight, mapWidth);
         this.monster = new Monster("Monster", mapHeight, mapWidth);
         this.healthPotion = new HealthPotion("Health Potion", mapHeight, mapWidth);
@@ -28,8 +28,9 @@ export class Game {
                     this.end(process);
                     return;
                 }
-                console.log(this.player);
-                console.log(this.monster);
+                console.clear();
+                console.log(`Player Health: ${this.player.health}`);
+                console.log(`Monster Health: ${this.monster.health}`);
                 map.playerMove(key.name);
                 map.draw();
             }

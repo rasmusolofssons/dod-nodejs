@@ -1,4 +1,4 @@
-const Game = require('./dist/game');
+const { Game } = require('./dist/game');
 const game = new Game();
 
 game.start();

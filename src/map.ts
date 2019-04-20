@@ -1,11 +1,15 @@
 import { Monster } from "./characters/monster";
 import { Potion } from "./miscellaneous/potion";
+import { Player } from "./characters/player";
 
 
 export default class Map {
     mapHeight: number;
     mapWidth: number;
     potion: Potion;
+    mapArray: Array<object>;
+    player: Player;
+    monster: Monster;
 
     constructor(mapHeight, mapWidth, player, monster, potion){
         this.mapHeight = mapHeight;
@@ -15,30 +19,6 @@ export default class Map {
         this.monster = monster;
         this.potion = potion;
     }
-
-    set monster(val) {
-        this.monster = val;
-    }
-
-    get monster() {
-        return this.monster;
-      }
-
-    set player(val) {
-        this.player = val;
-    }
-
-    get player() {
-        return this.player
-      }
-
-    set mapArray(value) {
-        this.mapArray = [];
-      }
-    
-      get mapArray() {
-        return this.mapArray
-      }
 
     draw (){
          for(let y = 0; y < this.mapHeight; y++){
