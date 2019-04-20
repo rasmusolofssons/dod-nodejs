@@ -1,8 +1,16 @@
-const Potion = require('./miscellaneous/potion');
-const Monster = require('./characters/monster');
+import { Monster } from "./characters/monster";
+import { Potion } from "./miscellaneous/potion";
+import { Player } from "./characters/player";
 
 
-class Map {
+export default class Map {
+    mapHeight: number;
+    mapWidth: number;
+    potion: Potion;
+    mapArray: Array<object>;
+    player: Player;
+    monster: Monster;
+
     constructor(mapHeight, mapWidth, player, monster, potion){
         this.mapHeight = mapHeight;
         this.mapWidth = mapWidth;
@@ -12,31 +20,7 @@ class Map {
         this.potion = potion;
     }
 
-    set monster(val) {
-        this._monster = val;
-    }
-
-    get monster() {
-        return this._monster;
-      }
-
-    set player(val) {
-        this._player = val;
-    }
-
-    get player() {
-        return this._player
-      }
-
-    set mapArray(value) {
-        this._mapArray = [];
-      }
-    
-      get mapArray() {
-        return this._mapArray
-      }
-
-    draw (key){
+    draw (){
          for(let y = 0; y < this.mapHeight; y++){
             this.mapArray[y] = [];
             console.log();
@@ -140,5 +124,3 @@ class Map {
         }
     }
 }
-
-module.exports = Map;

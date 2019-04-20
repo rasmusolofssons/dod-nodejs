@@ -1,0 +1,1 @@
+{"version":3,"file":"healthpotion.js","sourceRoot":"","sources":["../../src/miscellaneous/healthpotion.ts"],"names":[],"mappings":";;AAAA,qCAAkC;AAElC,MAAa,YAAa,SAAQ,eAAM;IAEpC,YAAY,IAAa,EAAE,SAAiB,EAAE,QAAgB;QAC1D,KAAK,CAAC,IAAI,EAAE,SAAS,EAAE,QAAQ,CAAC,CAAC;QACjC,IAAI,CAAC,MAAM,GAAG,CAAC,CAAC;IACpB,CAAC;CACJ;AAND,oCAMC"}

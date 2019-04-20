@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/rasmusolofssons/dod-nodejs/issues"
   },
-  "homepage": "https://github.com/rasmusolofssons/dod-nodejs#readme"
+  "homepage": "https://github.com/rasmusolofssons/dod-nodejs#readme",
+  "devDependencies": {
+    "@types/node": "^11.13.6"
+  }
 }
