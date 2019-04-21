@@ -13,7 +13,7 @@ export abstract class Character implements Coordinate {
         this.x = Math.floor(Math.random() * mapWidth);
     }
 
-     attack(character)
+     attack(character : Character)
     {
         character.health -= 5;
     }

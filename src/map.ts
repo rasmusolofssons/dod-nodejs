@@ -1,6 +1,8 @@
 import { Monster } from "./characters/monster";
 import { Potion } from "./miscellaneous/potion";
 import { Player } from "./characters/player";
+import { Coordinate } from "./miscellaneous/coordinate";
+import { Character } from "./characters/character";
 
 
 export default class Map {
@@ -26,15 +28,15 @@ export default class Map {
             console.log();
              for(let x = 0; x < this.mapWidth; x++){
              
-                if(this.characterHere(this.player, y, x)){
+                if(this.characterOrItemHere(this.player, y, x)){
                     this.mapArray[y][x] = this.player;
                     process.stdout.write(this.player.symbol);
                 } 
-                else if(this.characterHere(this.monster, y, x)) {
+                else if(this.characterOrItemHere(this.monster, y, x)) {
                     this.mapArray[y][x] = this.monster;
                     process.stdout.write(this.monster.symbol);
                     }
-                else if(this.characterHere(this.potion, y, x)) {
+                else if(this.characterOrItemHere(this.potion, y, x)) {
                     this.mapArray[y][x] = this.potion;
                     process.stdout.write(this.potion.symbol);
                     }
@@ -48,14 +50,14 @@ export default class Map {
          }
     }
 
-     characterHere(character, y, x){
+     characterOrItemHere(character : Coordinate, y : number, x : number){
          if(character == null){
              return false;
          }
         return (y === character.y && x === character.x);
     }
 
-    playerMove(key){
+    playerMove(key : string){
         if(key === 'right' && this.player.x < (this.mapWidth -1)){
             let nextPositionObj = this.mapArray[this.player.y][this.player.x +1];
             if(nextPositionObj instanceof(Potion)){

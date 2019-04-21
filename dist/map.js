@@ -16,15 +16,15 @@ class Map {
             this.mapArray[y] = [];
             console.log();
             for (let x = 0; x < this.mapWidth; x++) {
-                if (this.characterHere(this.player, y, x)) {
+                if (this.characterOrItemHere(this.player, y, x)) {
                     this.mapArray[y][x] = this.player;
                     process.stdout.write(this.player.symbol);
                 }
-                else if (this.characterHere(this.monster, y, x)) {
+                else if (this.characterOrItemHere(this.monster, y, x)) {
                     this.mapArray[y][x] = this.monster;
                     process.stdout.write(this.monster.symbol);
                 }
-                else if (this.characterHere(this.potion, y, x)) {
+                else if (this.characterOrItemHere(this.potion, y, x)) {
                     this.mapArray[y][x] = this.potion;
                     process.stdout.write(this.potion.symbol);
                 }
@@ -36,7 +36,7 @@ class Map {
             }
         }
     }
-    characterHere(character, y, x) {
+    characterOrItemHere(character, y, x) {
         if (character == null) {
             return false;
         }

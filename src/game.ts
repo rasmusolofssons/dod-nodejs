@@ -3,8 +3,8 @@ const Keypress = require("keypress");
 import { Player } from "./characters/player";
 import { Monster } from "./characters/monster";
 import { HealthPotion } from "./miscellaneous/healthpotion";
-const mapHeight = 10;
-const mapWidth = 10;
+const mapHeight : number = 10;
+const mapWidth : number = 10;
 
 export class Game {
     healthPotion: HealthPotion;

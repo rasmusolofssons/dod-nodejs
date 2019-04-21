@@ -130,8 +130,8 @@
         "signature": "e9c79b4a4588a9fe2b5ba9df70518f0023bdfbe36b86f32ae54d900eaa5b4e3c"
       },
       "/mnt/c/Dev/Projects/nodejs/dod/src/characters/character.ts": {
-        "version": "c21a4fa7e5459d852a55f17862f59d0e0c4e3f1f281200fb24ec5fee1169fc39",
-        "signature": "7a590705a2719a3a5e42882557a741a44a3639d0010aac2efdb61671e11b62f9"
+        "version": "df59363f049ebd7c76ae420f05a7615ef14e183bb730c9bc167725719752d5f2",
+        "signature": "e831c7b1a3fe103a67e66b912c2a530dbd0504952412ae210ea2067791aa8fa0"
       },
       "/mnt/c/Dev/Projects/nodejs/dod/src/characters/monster.ts": {
         "version": "5c0f4ada791326eaad1aea72a5df9c36fef498737676804f6f75bc9ee1629af1",
@@ -146,15 +146,15 @@
         "signature": "2f9d2436fe0c9a7210c0a1acddb4609080a5bcf94c02e08dad625003687c5d75"
       },
       "/mnt/c/Dev/Projects/nodejs/dod/src/map.ts": {
-        "version": "b13f1ae1b520f5b01c0f592bbc4694e119ecf93691b505204ae3946034d3d014",
-        "signature": "83747c820851c56a3a29ec06d83e5e53d729aa33fc9f608a2d636ea5c665a3ca"
+        "version": "1cee28adb138bea9deb75daecab5ce3cea758a3eff3f6d21a118c8916d128a04",
+        "signature": "01d437b0aee9c5e5f0663578998361f7cd3e09126b1a4a1af2d4b7f51cc8dc6f"
       },
       "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/healthpotion.ts": {
         "version": "0a6153fa3bcc7abf3ff230eed409743cfd38eb1e0f1be78906e227a6a799dad2",
         "signature": "151b9d3f973bca9b539880b063ac876ab3f8584d70ddf8167bb62951afa970d0"
       },
       "/mnt/c/Dev/Projects/nodejs/dod/src/game.ts": {
-        "version": "b268006330ca2db5b61f7fb36993e62a7ebbdeb398b7d238b01c6a9a91becd00",
+        "version": "dabbf55c0ca97faf1b4d603d3610fc5907a6f76a769467da1f5b16fe689df976",
         "signature": "45136b6e8d8b6a1b3c96a37699c3a20b446fd799bd5232dacaa1a48f096a65cf"
       },
       "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/globals.d.ts": {
@@ -504,6 +504,8 @@
         "/mnt/c/Dev/Projects/nodejs/dod/src/characters/monster.ts",
         "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/potion.ts",
         "/mnt/c/Dev/Projects/nodejs/dod/src/characters/player.ts",
+        "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/coordinate.ts",
+        "/mnt/c/Dev/Projects/nodejs/dod/src/characters/character.ts",
         "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
         "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -928,7 +930,8 @@
       "/mnt/c/Dev/Projects/nodejs/dod/src/map.ts": [
         "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/potion.ts",
         "/mnt/c/Dev/Projects/nodejs/dod/src/characters/player.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/src/characters/monster.ts"
+        "/mnt/c/Dev/Projects/nodejs/dod/src/characters/monster.ts",
+        "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/coordinate.ts"
       ],
       "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/healthpotion.ts": [
         "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/potion.ts"
@@ -1242,7 +1245,6 @@
       "/mnt/c/Dev/Projects/nodejs/dod/src/characters/monster.ts",
       "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/potion.ts",
       "/mnt/c/Dev/Projects/nodejs/dod/src/characters/player.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/src/map.ts",
       "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/healthpotion.ts",
       "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/globals.d.ts",
       "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/assert.d.ts",
@@ -1288,6 +1290,7 @@
       "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts",
       "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/globals.d.ts",
       "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/index.d.ts",
+      "/mnt/c/Dev/Projects/nodejs/dod/src/map.ts",
       "/mnt/c/Dev/Projects/nodejs/dod/src/game.ts"
     ]
   },
