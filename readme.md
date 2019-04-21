@@ -2,7 +2,7 @@
 
 A simple console game taking place in a 2d-array printed to the console.
 
-![Image of game](icons/dod-v1.1.png?raw=true "Title")
+![Image of game](icons/dod-v1.1.PNG?raw=true "Title")
 
 ### Requirements ###
 
