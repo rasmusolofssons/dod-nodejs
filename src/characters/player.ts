@@ -9,4 +9,8 @@ export class Player extends Character{
         this.symbol = 'p';
         this.inventory = [];
     }
+
+    getPotion(potion : Potion){
+        this.inventory.push(potion);
+    }
 }

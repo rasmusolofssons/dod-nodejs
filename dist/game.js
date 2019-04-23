@@ -27,12 +27,18 @@ class Game {
                 }
                 console.clear();
                 console.log(`Player Health: ${this.player.health}`);
+                this.player.inventory.length > 0 ? console.log(`Player Inventory: ${this.player.inventory[0].name} (U to use) `) : null;
                 console.log(`Monster Health: ${this.monster.health}`);
                 map.playerMove(key.name);
                 map.draw();
             }
             if (key && key.ctrl && key.name == "c") {
                 process.stdin.pause();
+            }
+            if (key && key.name == "u") {
+                if (this.player.inventory.length > 0) {
+                    this.player.health += this.player.inventory.pop().health;
+                }
             }
         }));
         process.stdin.setRawMode(true);

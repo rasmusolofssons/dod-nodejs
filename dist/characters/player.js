@@ -7,6 +7,9 @@ class Player extends character_1.Character {
         this.symbol = 'p';
         this.inventory = [];
     }
+    getPotion(potion) {
+        this.inventory.push(potion);
+    }
 }
 exports.Player = Player;
 //# sourceMappingURL=player.js.map

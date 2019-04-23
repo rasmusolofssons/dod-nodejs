@@ -57,30 +57,30 @@ export default class Map {
         return (y === character.y && x === character.x);
     }
 
+    checkIfPotion(nextPositionObj){
+        if(nextPositionObj instanceof(Potion)){
+            this.player.getPotion(nextPositionObj);
+            this.mapArray[nextPositionObj.y][nextPositionObj.x] = null;
+            this.potion = null;
+        }
+    }
+
     playerMove(key : string){
         if(key === 'right' && this.player.x < (this.mapWidth -1)){
             let nextPositionObj = this.mapArray[this.player.y][this.player.x +1];
-            if(nextPositionObj instanceof(Potion)){
-                this.player.health += nextPositionObj.health;
-                this.mapArray[nextPositionObj.y][nextPositionObj.x] = null;
-                this.potion = null;
-            }
+            this.checkIfPotion(nextPositionObj);
 
             if(nextPositionObj instanceof(Monster)){
                 this.player.attack(this.monster);
             }
-            
             if(nextPositionObj.symbol != this.monster.symbol){
             this.player.x = this.player.x + 1;
             }
         }
         else if (key === 'left' && this.player.x > 0){
             let nextPositionObj = this.mapArray[this.player.y][this.player.x -1];
-            if(nextPositionObj instanceof(Potion)){
-                this.player.health += nextPositionObj.health;
-                this.mapArray[nextPositionObj.y][nextPositionObj.x] = null;
-                this.potion = null;
-            }
+            this.checkIfPotion(nextPositionObj);
+
 
             if(nextPositionObj instanceof(Monster)){
                 this.player.attack(this.monster);
@@ -93,11 +93,8 @@ export default class Map {
         }
         else if (key === 'up' && this.player.y > 0){
             let nextPositionObj = this.mapArray[this.player.y -1][this.player.x];
-            if(nextPositionObj instanceof(Potion)){
-                this.player.health += nextPositionObj.health;
-                this.mapArray[nextPositionObj.y][nextPositionObj.x] = null;
-                this.potion = null;
-            }
+            this.checkIfPotion(nextPositionObj);
+
 
             if(nextPositionObj instanceof(Monster)){
                 this.player.attack(this.monster);
@@ -110,11 +107,7 @@ export default class Map {
         }
         else if (key === 'down' && this.player.y < (this.mapHeight -1)){
             let nextPositionObj =  this.mapArray[this.player.y +1][this.player.x]
-            if(nextPositionObj instanceof(Potion)){
-                this.player.health += nextPositionObj.health;
-                this.mapArray[nextPositionObj.y][nextPositionObj.x] = null;
-                this.potion = null;
-            }
+            this.checkIfPotion(nextPositionObj);
 
             if(nextPositionObj instanceof(Monster)){
                 this.player.attack(this.monster);

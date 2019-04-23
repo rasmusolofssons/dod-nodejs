@@ -125,211 +125,211 @@
         "version": "873c09f1c309389742d98b7b67419a8e0a5fa6f10ce59fd5149ecd31a2818594",
         "signature": "873c09f1c309389742d98b7b67419a8e0a5fa6f10ce59fd5149ecd31a2818594"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/coordinate.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/src/miscellaneous/coordinate.ts": {
         "version": "52fce4fb0713a00a42c9d16d9596615d3ed692049f579d6206bf7fa1988eb9d7",
         "signature": "e9c79b4a4588a9fe2b5ba9df70518f0023bdfbe36b86f32ae54d900eaa5b4e3c"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/src/characters/character.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/src/characters/character.ts": {
         "version": "df59363f049ebd7c76ae420f05a7615ef14e183bb730c9bc167725719752d5f2",
         "signature": "e831c7b1a3fe103a67e66b912c2a530dbd0504952412ae210ea2067791aa8fa0"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/src/characters/monster.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/src/characters/monster.ts": {
         "version": "5c0f4ada791326eaad1aea72a5df9c36fef498737676804f6f75bc9ee1629af1",
         "signature": "9ba921727a0141644e0d01d6915b21a3e53d17da4988eee68ddba80960529086"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/potion.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/src/miscellaneous/potion.ts": {
         "version": "25c84c792a8a1213ffa4580b1bc2938213566b717428ae7fbe44be5598ac3137",
         "signature": "66f2e1c413b8c819b52ff438e1c837edffaea3c0abb304a5e1e40bf4aa26e16f"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/src/characters/player.ts": {
-        "version": "5eecf3e6c38a82b3d6923b05019dd0defd18e4e647b05e911bff7df2f0192992",
-        "signature": "2f9d2436fe0c9a7210c0a1acddb4609080a5bcf94c02e08dad625003687c5d75"
+      "/mnt/c/dev/Projects/nodejs/dod/src/characters/player.ts": {
+        "version": "a136f13bf5184263be5056f9523242f27d8278c990e5dc1b3e7d43a856c5210d",
+        "signature": "0427ec5ad664c552990a7d83a7ba35ec3cf177be7ee2e44fa7c26bd1320bad0d"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/src/map.ts": {
-        "version": "1cee28adb138bea9deb75daecab5ce3cea758a3eff3f6d21a118c8916d128a04",
-        "signature": "01d437b0aee9c5e5f0663578998361f7cd3e09126b1a4a1af2d4b7f51cc8dc6f"
+      "/mnt/c/dev/Projects/nodejs/dod/src/map.ts": {
+        "version": "8c7d0f169c057db53500575b782a86f0da5168277d4aa99f642b0c417e63c3ca",
+        "signature": "00f99efb6ebcf17eb1a63aea3c115f13cc387627e17d2ca7a70491e4e1a2533a"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/healthpotion.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/src/miscellaneous/healthpotion.ts": {
         "version": "0a6153fa3bcc7abf3ff230eed409743cfd38eb1e0f1be78906e227a6a799dad2",
         "signature": "151b9d3f973bca9b539880b063ac876ab3f8584d70ddf8167bb62951afa970d0"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/src/game.ts": {
-        "version": "dabbf55c0ca97faf1b4d603d3610fc5907a6f76a769467da1f5b16fe689df976",
+      "/mnt/c/dev/Projects/nodejs/dod/src/game.ts": {
+        "version": "1ddc40b8e206d51c1c6a692f9928c52c8e5bc7be142a34d6eda1c27518954462",
         "signature": "45136b6e8d8b6a1b3c96a37699c3a20b446fd799bd5232dacaa1a48f096a65cf"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/globals.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/globals.d.ts": {
         "version": "3af134c0480536f901a30692d216bd29712a3869fe38a7be066ea1eef34a8561",
         "signature": "3af134c0480536f901a30692d216bd29712a3869fe38a7be066ea1eef34a8561"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/assert.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/assert.d.ts": {
         "version": "58a52f282f1dad18179023804c1f3a7536bf875748a0a314abd43f60fd5b244f",
         "signature": "58a52f282f1dad18179023804c1f3a7536bf875748a0a314abd43f60fd5b244f"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/async_hooks.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/async_hooks.d.ts": {
         "version": "138476cfdccbb9e2c7e06602bc216af843a56c4f3469a79106bc660ba94bd66a",
         "signature": "138476cfdccbb9e2c7e06602bc216af843a56c4f3469a79106bc660ba94bd66a"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/buffer.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/buffer.d.ts": {
         "version": "fe892fea1e75a442fffb4a604d7eeb451e858787a9f2f01c4e83bf12a3b5048d",
         "signature": "fe892fea1e75a442fffb4a604d7eeb451e858787a9f2f01c4e83bf12a3b5048d"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/child_process.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/child_process.d.ts": {
         "version": "c5a3c14cb11afb48d405562e6843145caa67c60be9738f408cd7977ce30a0b00",
         "signature": "c5a3c14cb11afb48d405562e6843145caa67c60be9738f408cd7977ce30a0b00"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/cluster.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/cluster.d.ts": {
         "version": "ce629710e5e58724902b753212e97861fd73e2aa09f5d88cb6d55dc763cf8c8a",
         "signature": "ce629710e5e58724902b753212e97861fd73e2aa09f5d88cb6d55dc763cf8c8a"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/console.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/console.d.ts": {
         "version": "525c8fc510d9632d2a0a9de2d41c3ac1cdd79ff44d3b45c6d81cacabb683528d",
         "signature": "525c8fc510d9632d2a0a9de2d41c3ac1cdd79ff44d3b45c6d81cacabb683528d"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/constants.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/constants.d.ts": {
         "version": "b952021e804dcd9cb5e5552e1ec8bf9f479b61e20da5641e2a542fe77db9a598",
         "signature": "b952021e804dcd9cb5e5552e1ec8bf9f479b61e20da5641e2a542fe77db9a598"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/crypto.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/crypto.d.ts": {
         "version": "a15466cfe77b4f8bcd936634d3d2828ee340819c3f136d31f87d6084e86994d0",
         "signature": "a15466cfe77b4f8bcd936634d3d2828ee340819c3f136d31f87d6084e86994d0"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/dgram.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/dgram.d.ts": {
         "version": "b6c6861bccf209a98eeddb99bdb7bd987fb29fc52130d5d9fd2f79d3607a0a7a",
         "signature": "b6c6861bccf209a98eeddb99bdb7bd987fb29fc52130d5d9fd2f79d3607a0a7a"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/dns.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/dns.d.ts": {
         "version": "896cd7d58e9d832392a6e374a8f8b64f142089b4d2678a2c90fd8d1d49128677",
         "signature": "896cd7d58e9d832392a6e374a8f8b64f142089b4d2678a2c90fd8d1d49128677"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/domain.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/domain.d.ts": {
         "version": "d5b7c8819ce1bd31a45f7675309e145ec28e3aa1b60a8e0637fd0e8916255baa",
         "signature": "d5b7c8819ce1bd31a45f7675309e145ec28e3aa1b60a8e0637fd0e8916255baa"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts": {
         "version": "cff7f1ff41519a28adfedb85b9d91325e13d7993bebcfd0dd9ce30c3ed1240bb",
         "signature": "cff7f1ff41519a28adfedb85b9d91325e13d7993bebcfd0dd9ce30c3ed1240bb"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/fs.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/fs.d.ts": {
         "version": "10c5b29dccf29ea7f9aea324ab09b0e2237d6506bd8e28538963b28855819616",
         "signature": "10c5b29dccf29ea7f9aea324ab09b0e2237d6506bd8e28538963b28855819616"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/http.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/http.d.ts": {
         "version": "e8d6f288602f2b48bf558264b38c75fb164ae0fa8c62d2fcac91f30b4e1b349a",
         "signature": "e8d6f288602f2b48bf558264b38c75fb164ae0fa8c62d2fcac91f30b4e1b349a"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/http2.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/http2.d.ts": {
         "version": "28fdca6c7a3d5dd62c738461051ef345b50d167efab39dceb2fcc9a079db1b07",
         "signature": "28fdca6c7a3d5dd62c738461051ef345b50d167efab39dceb2fcc9a079db1b07"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/https.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/https.d.ts": {
         "version": "dacbe08610729f6343ea9880ea8e737c6d7a6efa4a318d8f6acaf85db4aceed6",
         "signature": "dacbe08610729f6343ea9880ea8e737c6d7a6efa4a318d8f6acaf85db4aceed6"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/inspector.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/inspector.d.ts": {
         "version": "7f71142177d3c98370b31751e3d320c9743ed28eee215acb88d8e0d2a31e321e",
         "signature": "7f71142177d3c98370b31751e3d320c9743ed28eee215acb88d8e0d2a31e321e"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/module.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/module.d.ts": {
         "version": "03394bf8deb8781b490ae9266a843fbdf00647947d79e25fcbf1d89a9e9c8a66",
         "signature": "03394bf8deb8781b490ae9266a843fbdf00647947d79e25fcbf1d89a9e9c8a66"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts": {
         "version": "cc5fac2b9e45a6670b96fd32cb42c97e0d4a7b2ee12c87963c6fe0f55fa84f50",
         "signature": "cc5fac2b9e45a6670b96fd32cb42c97e0d4a7b2ee12c87963c6fe0f55fa84f50"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/os.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/os.d.ts": {
         "version": "1a6016bd905855b2b45881e9edbd7ab8c7175f8bcbb711ff06989c4bcdc75486",
         "signature": "1a6016bd905855b2b45881e9edbd7ab8c7175f8bcbb711ff06989c4bcdc75486"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/path.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/path.d.ts": {
         "version": "5fb30076f0e0e5744db8993648bfb67aadd895f439edad5cce039127a87a8a36",
         "signature": "5fb30076f0e0e5744db8993648bfb67aadd895f439edad5cce039127a87a8a36"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/perf_hooks.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/perf_hooks.d.ts": {
         "version": "27ef4001526ee9d8afa57687a60bb3b59c52b32d29db0a2260094ab64726164f",
         "signature": "27ef4001526ee9d8afa57687a60bb3b59c52b32d29db0a2260094ab64726164f"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/process.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/process.d.ts": {
         "version": "3a8848a9c307429b861402cc69bc472ffe0c05b86474fc158723169161e16389",
         "signature": "3a8848a9c307429b861402cc69bc472ffe0c05b86474fc158723169161e16389"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/punycode.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/punycode.d.ts": {
         "version": "30ec6f9c683b988c3cfaa0c4690692049c4e7ed7dc6f6e94f56194c06b86f5e1",
         "signature": "30ec6f9c683b988c3cfaa0c4690692049c4e7ed7dc6f6e94f56194c06b86f5e1"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/querystring.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/querystring.d.ts": {
         "version": "b610b39b7d42b8e8359875ce77c3149d657bbaa6c9058beb655af805efb581b3",
         "signature": "b610b39b7d42b8e8359875ce77c3149d657bbaa6c9058beb655af805efb581b3"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/readline.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/readline.d.ts": {
         "version": "94cf93922adcc9cb4acf11d8d71641af728de919a50ae55d8e83159afea1a42c",
         "signature": "94cf93922adcc9cb4acf11d8d71641af728de919a50ae55d8e83159afea1a42c"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/repl.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/repl.d.ts": {
         "version": "65dbe15ed8a8ed5d4707a63868178dc38111cfc06de28a2e50713ca017a9c157",
         "signature": "65dbe15ed8a8ed5d4707a63868178dc38111cfc06de28a2e50713ca017a9c157"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts": {
         "version": "15087156b728a1bdf46de0e1299f904c6a658af37f80851f6fe76fb21bb99b65",
         "signature": "15087156b728a1bdf46de0e1299f904c6a658af37f80851f6fe76fb21bb99b65"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/string_decoder.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/string_decoder.d.ts": {
         "version": "17e157df6125098a1a34eb4d201ee4ac03bbe97e471ab5627bb2c40fce555948",
         "signature": "17e157df6125098a1a34eb4d201ee4ac03bbe97e471ab5627bb2c40fce555948"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/timers.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/timers.d.ts": {
         "version": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9",
         "signature": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/tls.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/tls.d.ts": {
         "version": "8fd6756e8a6fac64089e19e4fbe822bcfafa62f79b237172288eaa1379e84083",
         "signature": "8fd6756e8a6fac64089e19e4fbe822bcfafa62f79b237172288eaa1379e84083"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/trace_events.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/trace_events.d.ts": {
         "version": "978aecd2e6bc2ac094e9a35eda98ff8586713857b3655e7c98ca5ed8f7d50662",
         "signature": "978aecd2e6bc2ac094e9a35eda98ff8586713857b3655e7c98ca5ed8f7d50662"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/tty.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/tty.d.ts": {
         "version": "0fd8dac24f12d9fd1fcc275200dd1b6771072f20331a07b18f7dbcbe20f7d3f4",
         "signature": "0fd8dac24f12d9fd1fcc275200dd1b6771072f20331a07b18f7dbcbe20f7d3f4"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/url.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/url.d.ts": {
         "version": "1e3da92862604b1f7a32265169f9aa712c4567742d42597704e04ae3e07019e7",
         "signature": "1e3da92862604b1f7a32265169f9aa712c4567742d42597704e04ae3e07019e7"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts": {
         "version": "20e55abae3dd750a85fda7c4d140670ada679c3d5b640de5e4f3eaafcee18a0d",
         "signature": "20e55abae3dd750a85fda7c4d140670ada679c3d5b640de5e4f3eaafcee18a0d"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/v8.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/v8.d.ts": {
         "version": "6ad2dd29dbf3aea031062298e9978d4b2a1fadd0997eb9d8caaf95aaa89e7033",
         "signature": "6ad2dd29dbf3aea031062298e9978d4b2a1fadd0997eb9d8caaf95aaa89e7033"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/vm.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/vm.d.ts": {
         "version": "f98df5ec124f441b465332271d0b083aeec815cd3c92d9249b9739e6318477a9",
         "signature": "f98df5ec124f441b465332271d0b083aeec815cd3c92d9249b9739e6318477a9"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/worker_threads.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/worker_threads.d.ts": {
         "version": "16de20ae20cd1d948409a56b55832f3d416c66c8cb44bb8475e1e9db14d8e402",
         "signature": "16de20ae20cd1d948409a56b55832f3d416c66c8cb44bb8475e1e9db14d8e402"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/zlib.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/zlib.d.ts": {
         "version": "f91189e04264b0e41ee96ff96661c3871e739b90156df2f2288da7a81019dcd9",
         "signature": "f91189e04264b0e41ee96ff96661c3871e739b90156df2f2288da7a81019dcd9"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/base.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/base.d.ts": {
         "version": "6622f76993bdfeaacb947ba7c4cf26f2e5c5194194d02d792c3cba4174cd8fce",
         "signature": "6622f76993bdfeaacb947ba7c4cf26f2e5c5194194d02d792c3cba4174cd8fce"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts": {
         "version": "4f54f0a9dd3b644c99ec32b32f8804d5978bc854799b228ae9c467bf3c84c64c",
         "signature": "4f54f0a9dd3b644c99ec32b32f8804d5978bc854799b228ae9c467bf3c84c64c"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/globals.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/globals.d.ts": {
         "version": "ce6b191c382ee19f23678b8c364484627bcf424e8f408357a2f5530fb8d52a45",
         "signature": "ce6b191c382ee19f23678b8c364484627bcf424e8f408357a2f5530fb8d52a45"
       },
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/index.d.ts": {
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/index.d.ts": {
         "version": "765fc34423b93c2ab763670d8d11d99e5f47387c13c161d6f1640dd6d91b7d1c",
         "signature": "765fc34423b93c2ab763670d8d11d99e5f47387c13c161d6f1640dd6d91b7d1c"
       }
@@ -347,446 +347,446 @@
       "types": [
         "node"
       ],
-      "outDir": "/mnt/c/Dev/Projects/nodejs/dod/dist",
-      "configFilePath": "/mnt/c/Dev/Projects/nodejs/dod/tsconfig.json"
+      "outDir": "/mnt/c/dev/Projects/nodejs/dod/dist",
+      "configFilePath": "/mnt/c/dev/Projects/nodejs/dod/tsconfig.json"
     },
     "referencedMap": {
       "/usr/lib/node_modules/typescript/lib/lib.es5.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.es2015.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.es2016.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.es2017.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.es2018.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.dom.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.scripthost.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.es2015.core.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.es2017.object.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.es2017.string.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.esnext.bigint.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/usr/lib/node_modules/typescript/lib/lib.es2017.full.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/coordinate.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/src/miscellaneous/coordinate.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/src/characters/character.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/coordinate.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/src/characters/character.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/src/miscellaneous/coordinate.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/src/characters/monster.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/src/characters/character.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/src/characters/monster.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/src/characters/character.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/potion.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/coordinate.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/src/miscellaneous/potion.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/src/miscellaneous/coordinate.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/src/characters/player.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/src/characters/character.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/potion.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/src/characters/player.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/src/characters/character.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/src/miscellaneous/potion.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/src/map.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/src/characters/monster.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/potion.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/src/characters/player.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/coordinate.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/src/characters/character.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/src/map.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/src/characters/monster.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/src/miscellaneous/potion.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/src/characters/player.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/src/miscellaneous/coordinate.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/src/characters/character.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/healthpotion.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/potion.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/src/miscellaneous/healthpotion.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/src/miscellaneous/potion.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/src/game.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/src/map.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/src/characters/player.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/src/characters/monster.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/healthpotion.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/src/game.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/src/map.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/src/characters/player.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/src/characters/monster.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/src/miscellaneous/healthpotion.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/globals.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/globals.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/assert.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/assert.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/async_hooks.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/async_hooks.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/buffer.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/buffer.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/child_process.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/child_process.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/cluster.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/child_process.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/cluster.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/child_process.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/console.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/console.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/constants.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/constants.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/crypto.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/crypto.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/dgram.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/dns.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/dgram.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/dns.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/dns.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/dns.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/domain.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/domain.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/fs.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/url.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/fs.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/url.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/http.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/url.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/http.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/url.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/http2.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/fs.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/tls.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/url.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/http.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/http2.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/fs.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/tls.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/url.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/http.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/https.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/tls.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/http.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/url.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/https.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/tls.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/http.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/url.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/inspector.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/inspector.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/module.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/module.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/dns.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/dns.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/os.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/os.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/path.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/path.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/perf_hooks.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/async_hooks.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/perf_hooks.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/async_hooks.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/process.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/process.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/punycode.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/punycode.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/querystring.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/querystring.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/readline.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/readline.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/repl.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/readline.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/vm.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/repl.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/readline.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/vm.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/string_decoder.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/string_decoder.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/timers.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/timers.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/tls.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/crypto.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/dns.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/tls.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/crypto.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/dns.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/trace_events.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/trace_events.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/tty.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/tty.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/url.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/querystring.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/url.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/querystring.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/v8.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/v8.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/vm.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/vm.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/worker_threads.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/vm.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/worker_threads.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/vm.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/zlib.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/zlib.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/base.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/globals.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/assert.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/async_hooks.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/buffer.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/child_process.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/cluster.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/console.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/constants.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/crypto.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/dgram.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/dns.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/domain.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/fs.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/http.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/http2.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/https.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/inspector.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/module.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/os.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/path.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/perf_hooks.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/process.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/punycode.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/querystring.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/readline.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/repl.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/string_decoder.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/timers.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/tls.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/trace_events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/tty.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/url.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/v8.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/vm.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/worker_threads.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/zlib.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/base.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/globals.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/assert.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/async_hooks.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/buffer.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/child_process.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/cluster.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/console.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/constants.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/crypto.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/dgram.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/dns.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/domain.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/fs.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/http.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/http2.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/https.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/inspector.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/module.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/os.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/path.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/perf_hooks.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/process.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/punycode.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/querystring.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/readline.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/repl.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/string_decoder.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/timers.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/tls.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/trace_events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/tty.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/url.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/v8.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/vm.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/worker_threads.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/zlib.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/globals.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/globals.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/globals.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/globals.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/index.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/base.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/globals.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/index.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/base.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/globals.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts"
       ]
     },
     "exportedModulesMap": {
@@ -914,298 +914,298 @@
         "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
         "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/src/characters/character.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/coordinate.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/src/characters/character.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/src/miscellaneous/coordinate.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/src/characters/monster.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/src/characters/character.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/src/characters/monster.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/src/characters/character.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/potion.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/coordinate.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/src/miscellaneous/potion.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/src/miscellaneous/coordinate.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/src/characters/player.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/potion.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/src/characters/character.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/src/characters/player.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/src/miscellaneous/potion.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/src/characters/character.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/src/map.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/potion.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/src/characters/player.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/src/characters/monster.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/coordinate.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/src/map.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/src/miscellaneous/potion.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/src/characters/player.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/src/characters/monster.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/src/miscellaneous/coordinate.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/healthpotion.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/potion.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/src/miscellaneous/healthpotion.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/src/miscellaneous/potion.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/src/game.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/healthpotion.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/src/characters/monster.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/src/characters/player.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/src/game.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/src/miscellaneous/healthpotion.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/src/characters/monster.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/src/characters/player.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/globals.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/globals.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/assert.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/assert.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/async_hooks.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/async_hooks.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/buffer.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/buffer.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/child_process.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/child_process.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/cluster.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/child_process.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/cluster.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/child_process.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/console.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/console.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/constants.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/constants.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/crypto.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/crypto.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/dgram.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/dns.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/dgram.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/dns.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/dns.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/dns.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/domain.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/domain.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/fs.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/url.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/fs.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/url.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/http.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/url.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/http.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/url.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/http2.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/fs.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/tls.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/url.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/http.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/http2.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/fs.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/tls.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/url.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/http.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/https.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/tls.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/http.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/url.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/https.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/tls.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/http.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/url.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/inspector.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/inspector.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/module.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/module.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/dns.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/dns.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/os.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/os.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/path.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/path.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/perf_hooks.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/async_hooks.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/perf_hooks.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/async_hooks.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/process.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/process.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/punycode.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/punycode.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/querystring.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/querystring.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/readline.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/readline.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/repl.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/readline.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/vm.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/repl.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/readline.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/vm.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/string_decoder.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/string_decoder.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/timers.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/timers.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/tls.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/crypto.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/dns.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/tls.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/crypto.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/dns.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/trace_events.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/trace_events.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/tty.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/tty.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/url.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/querystring.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/url.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/querystring.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/v8.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/v8.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/vm.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/vm.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/worker_threads.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/vm.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/worker_threads.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/vm.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/zlib.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/zlib.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/base.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/globals.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/assert.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/async_hooks.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/buffer.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/child_process.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/cluster.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/console.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/constants.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/crypto.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/dgram.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/dns.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/domain.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/fs.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/http.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/http2.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/https.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/inspector.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/module.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/os.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/path.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/perf_hooks.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/process.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/punycode.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/querystring.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/readline.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/repl.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/string_decoder.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/timers.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/tls.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/trace_events.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/tty.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/url.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/v8.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/vm.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/worker_threads.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/zlib.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/base.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/globals.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/assert.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/async_hooks.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/buffer.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/child_process.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/cluster.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/console.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/constants.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/crypto.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/dgram.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/dns.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/domain.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/fs.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/http.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/http2.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/https.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/inspector.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/module.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/os.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/path.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/perf_hooks.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/process.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/punycode.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/querystring.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/readline.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/repl.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/string_decoder.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/timers.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/tls.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/trace_events.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/tty.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/url.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/v8.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/vm.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/worker_threads.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/zlib.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/globals.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/globals.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/globals.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/globals.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/index.d.ts": [
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/base.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/globals.d.ts",
-        "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/index.d.ts": [
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/base.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/globals.d.ts",
+        "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
@@ -1240,58 +1240,58 @@
       "/usr/lib/node_modules/typescript/lib/lib.esnext.intl.d.ts",
       "/usr/lib/node_modules/typescript/lib/lib.esnext.bigint.d.ts",
       "/usr/lib/node_modules/typescript/lib/lib.es2017.full.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/coordinate.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/src/characters/character.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/src/characters/monster.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/potion.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/src/characters/player.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/src/miscellaneous/healthpotion.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/globals.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/assert.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/async_hooks.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/buffer.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/child_process.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/cluster.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/console.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/constants.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/crypto.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/dgram.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/dns.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/domain.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/fs.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/http.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/http2.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/https.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/inspector.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/module.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/os.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/path.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/perf_hooks.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/process.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/punycode.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/querystring.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/readline.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/repl.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/string_decoder.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/timers.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/tls.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/trace_events.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/tty.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/url.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/v8.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/vm.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/worker_threads.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/zlib.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/base.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/globals.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/index.d.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/src/map.ts",
-      "/mnt/c/Dev/Projects/nodejs/dod/src/game.ts"
+      "/mnt/c/dev/Projects/nodejs/dod/src/miscellaneous/coordinate.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/src/characters/character.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/src/characters/monster.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/src/miscellaneous/potion.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/src/characters/player.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/src/map.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/src/miscellaneous/healthpotion.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/globals.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/assert.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/async_hooks.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/buffer.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/child_process.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/cluster.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/console.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/constants.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/crypto.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/dgram.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/dns.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/domain.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/events.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/fs.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/http.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/http2.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/https.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/inspector.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/module.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/net.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/os.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/path.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/perf_hooks.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/process.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/punycode.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/querystring.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/readline.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/repl.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/stream.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/string_decoder.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/timers.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/tls.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/trace_events.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/tty.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/url.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/util.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/v8.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/vm.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/worker_threads.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/zlib.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/base.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/util.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/globals.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/node_modules/@types/node/ts3.2/index.d.ts",
+      "/mnt/c/dev/Projects/nodejs/dod/src/game.ts"
     ]
   },
   "version": "3.4.4"
